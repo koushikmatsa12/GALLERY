@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(135deg, #0d0d0d 0%, #d47474 100%);
+    background: linear-gradient(135deg, rgba(24, 26, 2, 0.8), rgba(255, 105, 180, 0.2)), url('images/background.jpg');
     min-height: 100vh;
     padding: 20px;
 }
